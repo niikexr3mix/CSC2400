@@ -1,0 +1,8 @@
+Bradley Harper
+CSC 2400-002
+
+1. set variable x = 0
+2. set up a loop to compare x to each integer in the array
+3. set x equal to any number larger than x is currently equal to
+4. repeat until n elements have been compared
+5. x will now equal the largest integer
